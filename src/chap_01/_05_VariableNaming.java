@@ -28,7 +28,7 @@ public class _05_VariableNaming {
         String item2 = "가방";
 
 
-
+        final String code = "abc";
 
 
 
